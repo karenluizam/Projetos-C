@@ -8,3 +8,6 @@
 
 ### - Verificador de CNPJ
   Verifica se o CNPJ é válido.
+
+### - Fatorial
+  Apresenta o valor fatorial do número digitado.
